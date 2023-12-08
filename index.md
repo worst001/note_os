@@ -1,3 +1,14 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Stargazers][stars-shield]][stars-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
+<!-- PROJECT LOGO -->
+
 # 操作系统
 
 ## 基本介绍
@@ -178,3 +189,16 @@ Linux是一种开源的、免费的操作系统内核，它以Unix操作系统�
 + 开放生态系统
     + 鸿蒙系统积极推动开放生态系统建设，鼓励合作伙伴共同参与和贡献。它提供了开发者支持、开发者社区和应用商店等资源，促进应用程序和服务的丰富化。
 
+
+<!-- links -->
+[your-project-path]:shaojintian/Best_README_template
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_os.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/mkdocs_os/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_os.svg?style=flat-square
+[forks-url]: https://github.com/worst001/mkdocs_os/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_os.svg?style=social
+[stars-url]: https://github.com/worst001/mkdocs_os/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_os.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_os.svg
+[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_os.svg?style=flat-square
+[license-url]: https://github.com/worst001/mkdocs_os/blob/main/LICENSE.txt
