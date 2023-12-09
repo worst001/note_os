@@ -1,3 +1,14 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
+<!-- PROJECT LOGO -->
+
 # 操作系统
 
 整理了一些操作系统相关理论与汇编的资料，以及单片机开发案例，然后进一步衍生鸿蒙系统的手册以及如何开发
@@ -10,18 +21,7 @@
 
 其他相关技术可以访问我的博客，主页地址请访问这里
 
-- 访问入口：[https://mkdocs.grft.top](https://mkdocs.grft.top)
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
-
-<!-- PROJECT LOGO -->
+- 访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
 
 --------------------
 
