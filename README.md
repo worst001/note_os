@@ -177,6 +177,11 @@
 
 [尚硅谷系列教程资料](http://www.atguigu.com/opensource.shtml)
 
+[https://github.com/gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)
+
+[https://github.com/coregear/linux](https://github.com/coregear/linux)
+
+[https://openai.com/chatgpt](https://openai.com/chatgpt)
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
