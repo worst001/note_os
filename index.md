@@ -192,13 +192,13 @@ Linux是一种开源的、免费的操作系统内核，它以Unix操作系统�
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_os.svg?style=flat-square
-[contributors-url]: https://github.com/worst001/mkdocs_os/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_os.svg?style=flat-square
-[forks-url]: https://github.com/worst001/mkdocs_os/network/members
-[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_os.svg?style=social
-[stars-url]: https://github.com/worst001/mkdocs_os/stargazers
-[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_os.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_os.svg
-[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_os.svg?style=flat-square
-[license-url]: https://github.com/worst001/mkdocs_os/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/note_os.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/note_os/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/note_os.svg?style=flat-square
+[forks-url]: https://github.com/worst001/note_os/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/note_os.svg?style=social
+[stars-url]: https://github.com/worst001/note_os/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/note_os.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/note_os.svg
+[license-shield]: https://img.shields.io/github/license/worst001/note_os.svg?style=flat-square
+[license-url]: https://github.com/worst001/note_os/blob/main/LICENSE.txt
